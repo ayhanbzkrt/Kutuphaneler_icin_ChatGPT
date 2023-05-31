@@ -1,0 +1,280 @@
+---
+
+Kütüphaneler Ýçin ChatGPT Kullaným Rehberi
+Bu Rehberde ChatGPT kullanarak kütüphane birimleri için basit düzeyde yazýlabilecek prompt örnekleri hazýrladým. Bunun yanýsýra chatgpt kullanarak basit kod örnekleriyle uygulamalar da yaptým. Umarým bu içerik size yardýmcý olur.
+by Ayhan BozkurtKütüphaneler, bilginin özgürce paylaþýldýðý, keþfedilen ve sýnýrlarýn aþýldýðý yerlerdir. Ancak günümüzde kütüphaneler, geleneksel hizmetlerini dijital dünyaya taþýma konusunda yeni zorluklarla karþý karþýyadýr. Ýþte bu noktada, ChatGPT gibi yapay zeka tabanlý araçlar devreye giriyor ve kütüphanelere yeni bir soluk getiriyor. ChatGPT, kütüphane hizmetlerini dönüþtürmek, kullanýcýlara daha kiþiselleþtirilmiþ ve etkileþimli bir deneyim sunmak için güçlü bir araç haline geliyor. Bu rehber, kütüphanecilerin ChatGPT'yi nasýl kullanabileceðini, örnek promptlar, vaka çalýþmalarý ve projelerle anlatarak, merak uyandýran ve yenilikçi bir yaklaþým sunuyor. Kütüphanelerin, teknolojiyle harmanlanmýþ bir geleceðe doðru ilerlemelerine yardýmcý olmak için ChatGPT ile keþif dolu bir yolculuða çýkmaya hazýr mýsýnýz?
+ChatGPT, kütüphane çalýþanlarýnýn iþlerini kolaylaþtýrmak ve verimliliði artýrmak için çeþitli þekillerde kullanýlabilir. Ýþte bu aracýn etkili bir þekilde kullanýlmasý için bir rehber:
+1. Bilgi Arama ve Kaynak Yönetimi
+ChatGPT, kitaplar, yazarlar ve diðer ilgili bilgiler hakkýnda sorularý yanýtlamak için kullanýlabilir. Sadece kitap veya yazarýn adýný girmeniz ve ChatGPT'ye hakkýnda bilgi vermesini istemeniz yeterlidir. Örneðin, "J.K. Rowling hakkýnda bilgi ver" veya "Harry Potter serisi hakkýnda bilgi ver" gibi.
+Ayrýca, ChatGPT'ye belirli bir konu hakkýnda kitaplar önermesini de isteyebilirsiniz. Bu, müþterilere kitap önerilerinde bulunmanýzý kolaylaþtýrýr. Örneðin, "Bilim kurgu romanlarý öner" gibi.
+ChatGPT, kütüphanenin çevrimiçi kataloðunu aramak veya dijital kaynaklardan bilgi almak için de kullanýlabilir.
+2. Kütüphane Yönetimi ve Planlama
+ChatGPT, kütüphane yönetimi ve planlama ile ilgili çeþitli konularda tavsiyelerde bulunabilir. Örneðin, kütüphane envanterini yönetme, etkinlik planlama, politikalar oluþturma ve daha fazlasý hakkýnda bilgi verebilir.
+Bunun için, "Kütüphane envanteri nasýl yönetilir?" veya "Bir okuma grubu etkinliði nasýl planlanýr?" gibi sorular sorabilirsiniz.
+3. Topluluk Hizmetleri
+ChatGPT, topluluk hizmetlerinin planlanmasý ve yönetilmesi konusunda yardýmcý olabilir. Okuma programlarý, atölye çalýþmalarý, özel etkinlikler ve daha fazlasý hakkýnda önerilerde bulunabilir.
+Örneðin, "Hangi okuma programlarý düzenlemeliyim?" veya "Hangi atölye çalýþmalarýný düzenlemeliyim?" gibi sorular sorabilirsiniz.
+4. Müþteri/ Kullanýcý/ Okuyucu Hizmetleri
+ChatGPT, müþteri hizmetleri sorularýný yanýtlayabilir ve müþteri sorunlarýný çözmek için tavsiyelerde bulunabilir. Örneðin, "Müþterinin kitap ödünç verme sorunu hakkýnda nasýl yardýmcý olabilirim?" veya "Müþteri geri bildirimini nasýl deðerlendiririm?" gibi sorularý sorabilirsiniz.
+5. Teknoloji
+ChatGPT, kütüphanenin teknoloji ihtiyaçlarý hakkýnda bilgi ve öneriler sunabilir. Bu, hangi bilgisayar sistemlerini kullanmanýz gerektiði, dijital kaynaklarýn yönetimi, e-kitap hizmetlerinin saðlanmasý ve daha fazlasýný içerebilir.
+Örneðin, "Hangi bilgisayar sistemlerini kullanmalýyým?" veya "Dijital arþivimi nasýl yönetirim?" gibi sorularý sorabilirsiniz.
+ChatGPT ile etkileþime girerken net ve doðrudan olun. Sorularýnýzý mümkün olduðunca belirgin ve anlaþýlýr bir þekilde ifade edin. Unutmayýn, ChatGPT bir dil modelidir ve tamamen belirli kelimeler ve cümle yapýlarýna dayanýr. Ýyi bir yanýt almak için iyi bir soru sormanýz gereklidir.
+Ayrýca, ChatGPT'nin bilgi tabaný sürekli güncellenmektedir, ancak her zaman en güncel bilgiye sahip olmayabilir. Bu nedenle, bilgiyi daima güvenilir baþka kaynaklarla doðrulamak önemlidir.
+Bu rehberi kullanarak, ChatGPT'yi kütüphane hizmetlerinizi geliþtirmek için güçlü bir araç olarak kullanabilirsiniz.
+Þimdi bir prompt yazdýralým. Kütüphane türü ve çalýþma alaný " teknoloji" "referans" "araþtýrma " vs olarak chatgpt prompt listesi çýkaralým vebu promptlar kütüphanecilerin iþlerini kolaylaþtýrýp daha az zamanla çok iþ yapmalarýna yardýmcý promptlar olsun.
+Prompt örneði yaptýk. Çýktýsý bu þekilde olurKütüphanede çalýþan bir Referans Uzmanýsýnýz. Araþtýrmacýlara araþtýrma sorularýný yanýtlayabilmek için adým adým bir cgatgpt kullaným rehberi hazýrla. Örnek promptlarý yazdýralým ve adým adým açýklayalým.
+ChatGPT Kullaným Rehberi: Araþtýrma Sorularýný Yanýtlamak
+Bu rehber referans uzmanlarýna araþtýrmacýlara araþtýrma sorularýný yanýtlamada ChatGPT'yi nasýl etkin bir þekilde kullanabileceklerini adým adým anlatýyor.
+Araþtýrma Sorusunu Anlayýn:
+Araþtýrmacýnýn sorduðu soruyu dikkatlice okuyun ve anlamaya çalýþýn.
+Sorunun neyin araþtýrýldýðýný, hangi bilgilere ihtiyaç duyulduðunu belirleyin.
+
+Prompt Oluþturma:
+Soruyu anladýktan sonra, ChatGPT ile etkileþimde bulunmak için bir prompt oluþturun.
+Prompt, soruyu açýklayan ve yanýtýn nasýl formüle edileceðine yönlendiren bir giriþ cümlesi olmalýdýr.
+
+Örnek Prompt: "Merhaba! Araþtýrma konunuz hakkýnda size yardýmcý olabilirim. Lütfen sorunuzu detaylý bir þekilde açýklayýn."
+Soruyu ChatGPT'ye Sorun:
+Oluþturduðunuz prompt ile ChatGPT'ye araþtýrma sorusunu sorun.
+Soruyu net, anlaþýlýr ve mümkün olduðunca kýsa tutmaya çalýþýn.
+
+Örnek Soru: "En son çýkan COVID-19 aþýlarý hakkýnda bana bilgi verir misiniz?"
+Yanýtý Ýnceleyin:
+ChatGPT'nin ürettiði yanýtý dikkatlice okuyun.
+Yanýtta doðru bilgiler, kaynaklar veya açýklamalar olup olmadýðýný kontrol edin.
+
+Yanýtý Doðrulama:
+Yanýttaki bilgileri doðrulamak için güvenilir kaynaklara baþvurun.
+Araþtýrmacýya saðlam bir yanýt sunabilmek için doðruluðunu teyit ettiðiniz bilgileri kullanýn.
+
+Gerektiðinde Düzeltme veya Açýklama Ekleyin:
+ChatGPT'nin ürettiði yanýtta eksiklikler veya hatalar varsa, bunlarý düzeltin veya açýklamalar ekleyin.
+Araþtýrmacýya tam ve doðru bir yanýt saðlamak için gerektiðinde ek bilgiler ekleyin.
+
+Empati ve Ýletiþim:
+
+Araþtýrmacýnýn ihtiyaçlarýna ve beklentilerine odaklanýn.
+Dostça ve anlayýþlý bir dil kullanarak yanýtlarýnýzý iletmeye özen gösterin.
+Gerekirse, daha fazla açýklama yapmak veya ek kaynaklar sunmak için iletiþimi sürdürün.
+Sürekli Öðrenme ve Geliþme:
+ChatGPT'yi kullanýrken elde ettiðiniz deneyimleri ve geri bildirimleri deðerlendirin.
+Kullanýcýlarýn ihtiyaçlarýna daha iyi yanýtlar sunabilmek için kendinizi sürekli geliþtirin ve bilginizi güncel tutun.
+
+Prompt: Bir Konu Uzmaný olarak chatgpt'ye 10 prompt yaz bu promplar detaylý ve açýklayýcý olsun.
+Konu uzmaný için verilen promptun çýktýsý bu þekildedir.Þimdi daha fantastik bir prompt yazalým. Bu bir hayli uzun olacak :) "KütüphaneciGPT" yaptýk yani ona bir görev tanýmladýk.
+"Kütüphanelerle ilgili araþtýrmalar yapan süreçleri iyileþtiren ve çözümler üreten bunu yaparken yeni teknolojileri, yenilikleri, geliþen teknolojileri de kullanýyorsun. Kütüphanelerin iþlerini ve süreçlerini daha da kolaylaþtýrmasýna yardýmcý olan profesyonel olan KütüphaneciGPT'sin.
+AMACIN: Hedef kitlen olan kütüphanelerde çalýþan kütüphaneciler ve bilgi profesyonelleri için kütüphane kullanýcýlarýna daha iyi hizmet vermelerine yardýmcý olacak için için 50 olasý sorun bulmaný istiyorum ve bunu çözmek için prompt üretmeni istiyorum.. SORUNLAR ve YAZILACAK PROMPTLAR ÝÇÝN KRÝTERLER:?-?Geçerli ve tekrar eden kritik sorunlara öncelik ver?-?Göz ardý edilemeyecek sorunlara öncelik ver, aksi takdirde kiþi ciddi olumsuz sonuçlarla karþýlaþacaktýr. KütüphaneciGPT'nin bileceði gizli mücevherleri vermelisin.
+YANIT FORMATI:?-?5 sütunlu bir tablo oluþtur 1. Hedef kitlemin sorunu 2. Hedef kitle için önemi 0'dan 5'e (5?-?en yüksek) 3. Çözmek için gereken uzmanlýk düzeyi 0'dan 5'e (5?-?en yüksek) 4. Bu sorun için iki olasý çözüm (birincisi kodsuz bir ürün, ikincisi bir içerik ürünü olmalýdýr) 5. spesifik tavsiye (1 tane)?-?Problemleri en umut verici olandan (yüksek önem, düþük uzmanlýk) en az umut vaat edene (düþük önem, yüksek uzmanlýk) doðru sýralayýn.?-?Bu tablonun anlaþýlmasýný kolaylaþtýrmak için net ve öz ol.
+
+---
+
+Yukarýdaki promptun çýktýsý.Bu linkten bunu detaylý inceleyebilirsiniz: https://chat.openai.com/share/dd0a45c4-7cfb-4a6c-ae09-dce5f393d330 
+Þimdi sorunlar, kütüphanedeki ilgili birim, prompt yazacak kütüphaneci ve çözüm bulunacak promptu tablo halinde ver ve önem derecelerini de belirt. 20 tane olsun.
+Birimlere göre prompt yazdýk. Tablonun devamýný eklemedim onu siz yaparsýnýz ;)Tabloyu revize ederek ChatGPT çözüm bulma promptu sütununu silebilirim. Ýþte revize edilmiþ tablo:
+Þimdi daha temiz bir iþ oldu.Tabloyu güncelleyerek ilgili birimlerle ilgili sorunlarý, çözüm üretecek promptlarý ve önem derecelerini ekleyebilirim. Ýþte güncellenmiþ tablo:
+Çocuk Kütüphanesi Birimi Sorunlar ve Çözümler
+Koruma ve Restorasyon Birimi Sorunlar ve Çözümler
+Yetiþkin Kütüphanesi Birimi Sorunlar ve Çözümler
+Kullanýcý Hizmetleri / Okuyucu Hizmetleri Birimi Sorunlar ve Çözümler
+Teknoloji Birimi Sorunlar ve Çözümler
+Referans Birimi Sorunlar ve Çözümler
+Elektronik Kaynaklar Birimi Sorunlar ve Çözümler
+Prompt: Kütüphanede Prompt Engineer pozisyonu var. Ýþe Alýmcý olarak davran ve bu posziyon için iþ tanýmý yeterlilikler ve yapacaðý iþle ilgili bir iþ ilaný hazýrla. Ýlaný düzenle. þunlarý ilave et; Kütüphanecilik / BBY lisans okusun. Kütüphanede çalýþma tecrübesi olsun, yeni teknolojileri takip etsin, yeniliklere açýk, eleþtirel düþünme becerisi, yüksek derecede problem çözme becerisi ( bununla ilgili bir sunum yapacak)
+
+---
+
+Prompt Engineer?-?Ýþ Ýlaný
+Kütüphanemizdeki dijital asistanýmýzý geliþtirmek için Prompt Engineer arýyoruz. Bu pozisyonda, ChatGPT modelini eðiterek ve yönlendirerek, kütüphane kullanýcýlarýna daha iyi hizmet sunmak için promptlarý oluþturacak ve iyileþtireceksiniz. Ýþe alým sürecimiz þu þekildedir:
+Ýþ Tanýmý:
+ChatGPT modelinin promptlarýný oluþturmak, düzenlemek ve geliþtirmek.
+Kütüphane kullanýcýlarýnýn ihtiyaçlarýna uygun, anlaþýlýr ve etkili promptlar üretmek.
+Promptlar üzerinde deneyler yaparak, daha iyi sonuçlar elde etmek için iyileþtirmeler yapmak.
+ChatGPT modelinin performansýný ve kullanýcý deneyimini sürekli olarak deðerlendirmek ve raporlamak.
+
+Yeterlilikler:
+Kütüphanecilik, Bilgi Bilimi veya benzeri bir alanda lisans derecesine sahip olmak.
+Kütüphanede çalýþma tecrübesi ve kütüphane iþleyiþine hakim olmak.
+Doðal dil iþleme ve makine öðrenme konularýnda güçlü bir temel bilgiye sahip olmak.
+Yeni teknolojileri takip eden, yeniliklere açýk bir yaklaþýma sahip olmak.
+Eleþtirel düþünme becerisine sahip olmak ve problemleri çözmek için yüksek düzeyde analitik yeteneklere sahip olmak.
+Ýyi iletiþim ve takým çalýþmasý becerilerine sahip olmak.
+Problem çözme becerilerini sergilemek için bir sunum yapabilme yeteneði.
+
+Ýþe Alým Süreci:
+Baþvurunuzu inceleyerek uygun adaylarý seçme.
+Seçilen adaylarla mülakat süreci: Teknik mülakat ve davranýþsal mülakat.
+Performans deðerlendirmesi: Bir örnek proje üzerinde çalýþma ve problem çözme sunumu.
+Referans kontrolü ve teklif aþamasý.
+
+Baþvuru Süreci: Eðer Prompt Engineer pozisyonuna baþvurmak istiyorsanýz, özgeçmiþinizi ve motivasyon mektubunuzu hr@xxxlibrary.com adresine gönderin. Baþvurularýn son tarihi 30 Haziran 2023'tür.
+Yeterliliklere þunlarý da ekleyerek güncelle: Ýyi analitik ve problem çözme becerilerine sahip olmak. Python veya benzeri programlama dillerinde deneyim sahibi olmak. Ýyi iletiþim ve takým çalýþmasý becerilerine sahip olmak. Yenilikçi düþünce ve öðrenmeye açýk olmak
+Prompt Engineer?-?Ýþ Ýlaný
+Kütüphanemizdeki dijital asistanýmýzý geliþtirmek için Prompt Engineer arýyoruz. Bu pozisyonda, ChatGPT modelini eðiterek ve yönlendirerek, kütüphane kullanýcýlarýna daha iyi hizmet sunmak için promptlarý oluþturacak ve iyileþtireceksiniz. Ýþe alým sürecimiz þu þekildedir:
+Ýþ Tanýmý:
+ChatGPT modelinin promptlarýný oluþturmak, düzenlemek ve geliþtirmek.
+Kütüphane kullanýcýlarýnýn ihtiyaçlarýna uygun, anlaþýlýr ve etkili promptlar üretmek.
+Promptlar üzerinde deneyler yaparak, daha iyi sonuçlar elde etmek için iyileþtirmeler yapmak.
+ChatGPT modelinin performansýný ve kullanýcý deneyimini sürekli olarak deðerlendirmek ve raporlamak.
+
+Yeterlilikler:
+Kütüphanecilik, Bilgi Bilimi veya benzeri bir alanda lisans derecesine sahip olmak.
+Kütüphanede çalýþma tecrübesi ve kütüphane iþleyiþine hakim olmak.
+Doðal dil iþleme ve makine öðrenme konularýnda güçlü bir temel bilgiye sahip olmak.
+Python veya benzeri programlama dillerinde deneyim sahibi olmak.
+Ýyi analitik ve problem çözme becerilerine sahip olmak.
+Yeni teknolojileri takip eden, yeniliklere açýk bir yaklaþýma sahip olmak.
+Eleþtirel düþünme becerisine sahip olmak ve problemleri çözmek için yüksek düzeyde analitik yeteneklere sahip olmak.
+Ýyi iletiþim ve takým çalýþmasý becerilerine sahip olmak.
+Yenilikçi düþünceye ve öðrenmeye açýk olmak.
+
+Ýþe Alým Süreci:
+Baþvurunuzu inceleyerek uygun adaylarý seçme.
+Seçilen adaylarla mülakat süreci: Teknik mülakat ve davranýþsal mülakat.
+Performans deðerlendirmesi: Bir örnek proje üzerinde çalýþma ve problem çözme sunumu.
+Referans kontrolü ve teklif aþamasý.
+
+Baþvuru Süreci: Eðer Prompt Engineer pozisyonuna baþvurmak istiyorsanýz, özgeçmiþinizi ve motivasyon mektubunuzu hr@xxxlibrary.com adresine gönderin. Baþvurularýn son tarihi 30 Haziran 2023'tür.
+Son olarak bir kod örneði yapalým ve çok basit ara yüz hazýrlayalým:
+Þimdi, kelime bulutunda gösterilen herhangi bir konu baþlýðýnda anahtar kelimeyi tarama özelliði ekleyelim. Böylece kullanýcý, kelime bulutunda gösterilen konu baþlýklarýndan herhangi birinde anahtar kelimeyi arayarak ilgili konu baþlýklarýný ve numaralarýný LC ve Dewey olarak listeleyebilecektir. 
+Bunun promptunu size ödev veriyorum :) Acaba nasýl böyle bir çýktý alabilirsiniz? Ben Aþaðýda ne isteðimiz yazýyorum ve bu programda hangi dil? hangi kütüphaneler ve hangi araçlar kullanýlmýþ yazacaðým. Ayrýca github reposunu da vereceðim bunu siz de bir notebookda çalýþtýrabilirsiniz ( Google Colab, Jupyter Notebook) . Programlama bilginiz varsa istediðiniz gibi kodu update edebilirsiniz.
+Þimdi konu LC ve Dewey konu baþlýklarýndan bir wordcloud uygulamasýný yapalým. Ekrandaki kelime bulutundan bir anahtar kelime tarayarak konu numarasýný vb. bilgilerini öðreneceðiz..
+Kelime bulutunu oluþturmak için wordcloud kütüphanesini ve etkileþimli bir kelime bulutu için ipywidgets kütüphanesini kullanabiliriz. Aþaðýda, konu baþlýklarýnýn kelime bulutunu oluþturan ve ardýndan kullanýcýnýn seçtiði kelimenin LC numarasýný döndüren basit bir Python uygulamasýnýn bir örneði verilmiþtir.
+Bununla birlikte, lütfen Python betiklerinin þu anki ortamda interaktif olmadýðýný ve bu kod parçacýðýnýn bir Python not defterinde (örneðin Jupyter) çalýþtýrýlmasý gerektiðini unutmayýn.
+Yes! Uygulama çalýþýyor.Kodu da paylaþalým:
+from collections import defaultdict
+import matplotlib.pyplot as plt
+from wordcloud import WordCloud
+from ipywidgets import widgets, Output, interact
+from IPython.display import display
+
+classification = {
+    "genel eserler": {"LC": "A", "DDC": "000"},
+    "felsefe, psikoloji, din": {"LC": "B", "DDC": "100"},
+    "tarih - yardýmcý bilimler": {"LC": "C", "DDC": "900"},
+    "tarih (genel ve dýþýnda amerika)": {"LC": "D", "DDC": "900"},
+    "amerika tarihi": {"LC": "E", "DDC": "900"},
+    "amerika yerel tarihi": {"LC": "F", "DDC": "900"},
+    "coðrafya, antropoloji, spor": {"LC": "G", "DDC": "900"},
+    "sosyal bilimler": {"LC": "H", "DDC": "300"},
+    "siyaset bilimi": {"LC": "J", "DDC": "300"},
+    "hukuk": {"LC": "K", "DDC": "300"},
+    "eðitim": {"LC": "L", "DDC": "300"},
+    "müzik": {"LC": "M", "DDC": "700"},
+    "güzel sanatlar": {"LC": "N", "DDC": "700"},
+    "dil ve edebiyat": {"LC": "P", "DDC": "800"},
+    "bilim": {"LC": "Q", "DDC": "500"},
+    "týp": {"LC": "R", "DDC": "600"},
+    "tarým": {"LC": "S", "DDC": "600"},
+    "teknoloji": {"LC": "T", "DDC": "600"},
+    "askeri bilimler": {"LC": "U", "DDC": "300"},
+    "denizcilik": {"LC": "V", "DDC": "300"},
+    "kütüphanecilik, bilgi bilimi": {"LC": "Z", "DDC": "000"}
+}
+
+def find_classification(keyword):
+    results = []
+    for topic, data in classification.items():
+        if keyword.lower() in topic.lower():
+            results.append((topic, data["LC"], data["DDC"]))
+    return results
+
+def get_all_subtopics(classification):
+    subtopics = set()
+    for topic in classification.keys():
+        subtopics.add(topic.lower())
+        subtopics.update(topic.lower().split(", "))
+    return subtopics
+
+def get_all_topics(classification):
+    topics = set(classification.keys())
+    for topic in classification.keys():
+        subtopics = topic.lower().split(", ")
+        topics.update(subtopics)
+    return topics
+
+all_topics = get_all_topics(classification)
+
+lc_topics = list(classification.keys())
+ddc_topics = list(classification.keys())
+
+frequencies = defaultdict(int)
+for topic in classification.keys():
+    frequencies[topic] += 1
+
+wc = WordCloud(width=800, height=400, max_words=200, background_color='white').generate_from_frequencies(frequencies)
+
+plt.figure(figsize=(10, 5))
+plt.imshow(wc, interpolation='bilinear')
+plt.axis('off')
+plt.show()
+
+input_text = widgets.Text(
+    value='',
+    placeholder='Anahtar kelime girin',
+    description='Ara:',
+    disabled=False
+)
+
+output_results = widgets.Output()
+
+def update_output_text(sender):
+    keyword = input_text.value.strip().lower()
+    if keyword not in all_topics:
+        results = find_classification(keyword)
+        with output_results:
+            output_results.clear_output()
+            if results:
+                print(f"Konu baþlýklarý ile ilgili sonuçlar ({keyword}):")
+                for topic, lc, ddc in results:
+                    print(f"Konu: {topic}, LC Numarasý: {lc}, DDC Numarasý: {ddc}")
+            else:
+                print("Sonuç bulunamadý.")
+    else:
+        with output_results:
+            output_results.clear_output()
+            print(f"{keyword} ile ilgili konu baþlýklarý ve numaralarý:")
+            print(f"LC Numarasý: {classification[keyword]['LC']}")
+            print(f"DDC Numarasý: {classification[keyword]['DDC']}")
+
+search_button = widgets.Button(description="Ara")
+
+def on_button_clicked(b):
+    with output_results:
+        output_results.clear_output()
+        update_output_text(None)
+
+search_button.on_click(on_button_clicked)
+
+display(input_text)
+display(search_button)
+display(output_results)
+Þimdi bu kodda neler yapýlmýþ açýklayalým:
+Bu kod bloðunda aþaðýdaki kütüphaneler ve araçlar kullanýlmýþtýr:
+collections modülü: defaultdict veri yapýsýný kullanmak için.
+matplotlib.pyplot modülü: kelime bulutu oluþturmak ve görselleþtirmek için.
+wordcloud modülü: kelime bulutu oluþturmak için.
+ipywidgets modülü: metin kutusu ve düðme gibi etkileþimli bileþenler oluþturmak için.
+IPython.display modülü: çýktýlarý görüntülemek ve temizlemek için.
+
+Bu kod, kullanýcýya bir anahtar kelime girme ve bu anahtar kelimeyi kütüphane konu baþlýklarýyla eþleþtirerek ilgili konu baþlýklarýný ve numaralarýný gösterme iþlevini yerine getirir. Ayrýca, kelime bulutu oluþturularak konu baþlýklarýnýn görsel bir temsilini sunar.
+Github linkini de paylaþýyorum: https://github.com/ayhanbzkrt/lc_dewey_subjectheadings_python_wordcloud_matplotlib_example
+Bonus kazandýnýz! :)
+Midjourney'ye tasarlattýðým büyücü kütüphanecilerim :) promptu bende saklý ;)Yukarýdaki uygulamayý geliþtirmek için aþaðýdaki önerileri düþünebilirsiniz:
+Arayüz Geliþtirmeleri: Kodu daha kullanýcý dostu bir arayüzle geliþtirebilirsiniz. Örneðin, daha modern bir web arayüzü veya masaüstü uygulamasý kullanarak kullanýcýya daha iyi bir deneyim sunabilirsiniz. HTML, CSS ve JavaScript kullanarak bir web arayüzü oluþturabilir veya PyQt veya Tkinter gibi araçlarla bir masaüstü uygulamasý geliþtirebilirsiniz.
+Mobil Uygulama: Kütüphane hizmetlerini mobil cihazlarda da eriþilebilir hale getirebilirsiniz. Mobil uygulama geliþtirme için Flutter veya React Native gibi çerçeveleri kullanabilirsiniz. Bu sayede kullanýcýlar, kütüphane konu baþlýklarýný araþtýrmak ve bilgilere eriþmek için mobil cihazlarýný kullanabilirler.
+Veri Tabaný Entegrasyonu: Kütüphane konu baþlýklarýný ve ilgili numaralarý veritabanýnda saklamak için bir veritabaný sistemiyle entegrasyon yapabilirsiniz. Bu, verilerin daha iyi yönetilmesini saðlayacak ve ölçeklenebilir bir yapý oluþturmanýza yardýmcý olacaktýr.
+Otomatik Tamamlama: Kullanýcýnýn girdiði anahtar kelimeyi otomatik olarak tamamlayan bir özellik ekleyebilirsiniz. Böylece kullanýcýnýn doðru ve hýzlý bir þekilde arama yapmasý saðlanýr.
+
+AR Uygulamasý için ise aþaðýdaki önerileri düþünebilirsiniz:
+Kütüphane Rehberi: AR teknolojisi kullanarak, kullanýcýlarýn kütüphane içinde gezinirken AR tabanlý bir rehberlik deneyimi yaþamasýný saðlayabilirsiniz. Kullanýcýlara konu baþlýklarý, raflar ve bölümler hakkýnda bilgiler sunabilir, kýlavuzluk yapabilir ve yol tarifleri verebilirsiniz.
+Kitap Tanýma: AR teknolojisi ile kullanýcýlara kitaplar hakkýnda daha fazla bilgi sunabilirsiniz. Kamera kullanarak kitap kapaklarýný tanýyabilir ve kitapla ilgili açýklama, yazar bilgileri, incelemeler gibi verileri görüntüleyebilirsiniz.
+Sanal Kütüphane Deneyimi: AR ile kullanýcýlara sanal bir kütüphane deneyimi sunabilirsiniz. Kullanýcýlar, kütüphane atmosferini simüle eden 3D grafiklerle çevrili bir ortamda kitaplara ve diðer kaynaklara eriþebilir, gezinebilir ve etkileþimde bulunabilir.
+Artýrýlmýþ Gerçeklikli Eðitim: Kütüphane hizmetleri ve kaynaklarý hakkýnda interaktif eðitim materyalleri oluþturabilirsiniz. Kullanýcýlara AR ile desteklenmiþ eðitim içeriði sunarak, kütüphane kaynaklarýný kullanma becerilerini geliþtirmelerine yardýmcý olabilirsiniz.
+
+Bu öneriler, kütüphane hizmetlerini daha etkileþimli, eriþilebilir ve yenilikçi hale getirmenize yardýmcý olabilir. Umarým bu öneriler ilham verir ve projenizi daha da geliþtirmenize yardýmcý olur.
+
+Evet bu içerik bir hayli uzun oldu ama faydalý olacaðýný ümit ediyorum. Deðerli zamanýnýzý ayýrýp okuduðunuz için teþekkür ederim. 
+Bu konuyla ilgili kitabým çok yakýnda çýkýyor..
+Bol promptlu ve güneþli günler efendim. Sevgiyle kalýnýz.
+Ayhan Bozkurt
